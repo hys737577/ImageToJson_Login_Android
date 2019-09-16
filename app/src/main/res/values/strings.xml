@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageToJson_Login</string>
+    <string name="textNoCameraApp">No camera app found</string>
+    <string name="textUpload">Upload</string>
+    <string name="textUserName">User name (input "a")</string>
+    <string name="textPassword">Password (input "1")</string>
+    <string name="textLogin">Login</string>
+    <string name="textLogout">Logout</string>
+    <string name="textInvalidUserOrPassword">User name or password invalid</string>
+    <string name="textNotUploadWithoutPicture">Not upload without picture</string>
+    <string name="textResponse">Response</string>
+    <string name="textNoNetwork">no network connection available</string>
+    <string name="textNotGranted">not granted</string>
+    <string name="textDirNotCreated">DIRECTORY_PICTURES cannot be created!</string>
+
+</resources>
